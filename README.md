@@ -1,8 +1,6 @@
 # Gender Tracking with App Usage
 
-## Project by [Ranit Bhowmick](https://linktr.ee/ranitbhowmick) and [Sayanti Chatterjee](https://linktr.ee/sayantichatterjee)
-
----
+Project by [Ranit Bhowmick](https://linktr.ee/ranitbhowmick) and [Sayanti Chatterjee](https://linktr.ee/sayantichatterjee)
 
 ## Overview
 
